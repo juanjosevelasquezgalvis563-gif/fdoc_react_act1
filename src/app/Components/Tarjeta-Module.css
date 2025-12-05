@@ -1,0 +1,21 @@
+.tarjeta {
+  border: 1px solid red;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: red;
+  text-align: center;
+}
+
+.titulo {
+  color: #28a745;
+  font-size: 1.5rem;
+}
+
+.boton {
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
